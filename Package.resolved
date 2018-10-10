@@ -15,17 +15,17 @@
         "repositoryURL": "https://github.com/vapor/clibressl.git",
         "state": {
           "branch": null,
-          "revision": "23ddb296981d17a8ee6c7418742a40cad5d2f9d0",
-          "version": "1.0.0"
+          "revision": "9ebe7fffd3f7d3cd3377696aeaa867a77f2418dd",
+          "version": "1.0.1"
         }
       },
       {
         "package": "ProrsumNet",
-        "repositoryURL": "https://github.com/noppoman/ProrsumNet.git",
+        "repositoryURL": "https://github.com/foulkesjohn/ProrsumNet.git",
         "state": {
           "branch": null,
-          "revision": "941e0c65df620467130e9eb2496a3c1275c1d307",
-          "version": "0.1.3"
+          "revision": "93424e3ec2bf90a94dd50a40ba754ce485a2d2e4",
+          "version": "0.1.4"
         }
       }
     ]
